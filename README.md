@@ -27,7 +27,7 @@ npm install avail-js-sdk
 
 <img width="1177" alt="image" src="https://github.com/user-attachments/assets/b519f5c7-f72b-488f-8cb0-3a4f8234a07b">
 
-
+&nbsp;
 
 4. Give Permission to the bash script
 ```
