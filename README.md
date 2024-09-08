@@ -16,7 +16,7 @@ This tool is for:
 git clone https://github.com/0xrishitripathi/avail-stake-flow.git && cd avail-stake-flow
 ```
 
-2. Make sure you have Node.js v16 or above installed. Along with that follow below setps to install all pre-requisites and avail-js.
+2. Make sure you have Node.js v16 or above installed. Along with that follow below steps to install all pre-requisites and avail-js.
 ```bash
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 # Install Node.js latest version if not done already.
