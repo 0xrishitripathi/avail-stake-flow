@@ -1,0 +1,27 @@
+{
+  "name": "avail-stake-flow",
+  "version": "1.0.0",
+  "description": "Avail staking payout automation script",
+  "main": "validator-reward.ts",
+  "scripts": {
+    "validator-reward": "ts-node validator-reward.ts",
+    "npool-reward": "ts-node npool-reward.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/api": "^10.9.1",
+    "@polkadot/types": "^10.9.1",
+    "@polkadot/util": "^12.3.2",
+    "avail-js-sdk": "^0.2.15",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.2.5"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
