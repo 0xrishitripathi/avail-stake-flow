@@ -3,7 +3,7 @@ Automate claiming staking reward payouts for Validators and Nomination Pools on 
 
 This tool is for:
 1. Validators who want to automate claiming their pending rewards for previous and upcoming eras.
-2. Nomination Pool Operators who want to automate compounding rewards of their Pool Memebers who have unclaimed pending rewards above a set amount. 
+2. Nomination Pool Operators who want to automate compounding rewards of their Pool Members who have unclaimed pending rewards above a set amount. 
 
 &nbsp;
 &nbsp;
