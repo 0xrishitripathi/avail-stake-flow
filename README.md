@@ -1,5 +1,5 @@
 # Avail-Stake-Flow 
-Automate claiming your staking reward payouts for Validators and Nomination Pools on Avail DA Network.
+Automate claiming staking reward payouts for Validators and Nomination Pools on Avail DA Network.
 
 &nbsp;
 &nbsp;
