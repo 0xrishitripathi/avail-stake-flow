@@ -16,29 +16,32 @@ This tool is for:
 git clone https://github.com/0xrishitripathi/avail-stake-flow.git && cd avail-stake-flow
 ```
 
-2. Make sure you have Node.js v16 or above installed. Along with that follow below steps to install all pre-requisites and avail-js.
+2. Make sure you have Node.js v16 or above installed. 
 ```bash
+node -v
+# check current Node.js version on your system. To install latest version follow below steps
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
-# Install Node.js latest version if not done already.
+# Download and setup the NodeSource repository
 sudo apt-get install -y nodejs
 # Install Node.js
-npm install
-#install all pre-requisites
-npm install avail-js-sdk
-#install avail-js
 ```
-3. NOTE: Before running the script, please go though the configuration file to understand the settings and make neccesary changes for successful operation of the tool.
+3. Proceed to install all required dependencies, including [avail-js-sdk](https://www.npmjs.com/package/avail-js-sdk), using the following npm command:
+```
+npm install
+```
+
+4. NOTE: Before running the script, please go though the configuration file to understand the settings and make neccesary changes for successful operation of the tool.
 
 <img width="1177" alt="image" src="https://github.com/user-attachments/assets/b519f5c7-f72b-488f-8cb0-3a4f8234a07b">
 
 &nbsp;
 
-4. Give Permission to the bash script
+5. Give Permission to the bash script
 ```
 chmod +x staking-payout.sh
 ```
 
-5. Run the bash script
+6. Run the bash script
 ```
 ./staking-payout.sh
 ```
