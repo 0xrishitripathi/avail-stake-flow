@@ -30,7 +30,7 @@ sudo apt-get install -y nodejs
 npm install
 ```
 
-4. NOTE: Before running the script, please go though the configuration file to understand the settings and make neccesary changes for successful operation of the tool.
+4. NOTE: Before running the script, please go though the configuration file [config.ts](https://github.com/0xrishitripathi/avail-stake-flow/blob/main/config.ts) to understand the settings and make neccesary changes for successful operation of the tool.
 
 <img width="1177" alt="image" src="https://github.com/user-attachments/assets/b519f5c7-f72b-488f-8cb0-3a4f8234a07b">
 
